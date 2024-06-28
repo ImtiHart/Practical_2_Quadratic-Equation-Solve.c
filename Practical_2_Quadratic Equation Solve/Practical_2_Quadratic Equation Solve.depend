@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712522884 source:c:\users\ihartley\onedrive\documents\code projects\c\practical_2_quadratic equation solve\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
